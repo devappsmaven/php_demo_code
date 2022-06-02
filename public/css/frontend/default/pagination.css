@@ -1,0 +1,10 @@
+.pagination li a {
+  margin-left: 10px !important;
+  }
+
+  .pagination li {
+    width: 30px;
+    border: 1px solid #eeeeee;
+  }
+  
+  .pagination li a:hover:not(.active) {background-color: #ddd !important; }

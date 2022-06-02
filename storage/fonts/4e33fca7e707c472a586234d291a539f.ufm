@@ -1,0 +1,95 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright (c) 1996 Tom Murphy. http://members.aol.com/imightbetm/index.html - Free for non-commercial use (for licensing information, write: Tom Murphy/ 339 Still Hill Rd./ Hamden, CT 06518.1830/ USA). Have fun! =)
+FontName Ransom
+FontSubfamily CutUpLetters
+UniqueID Frog:Ransom
+FullName Ransom
+Version 1.0 Fri Apr 26 21:49:20 1996
+PostScriptName Ransom
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 20
+UnderlinePosition -133
+FontHeightOffset 0
+Ascender 838
+Descender -295
+FontBBox -180 -295 1058 838
+StartCharMetrics 75
+U 32 ; WX 500 ; N space ; G 3
+U 33 ; WX 399 ; N exclam ; G 4
+U 34 ; WX 373 ; N quotedbl ; G 5
+U 36 ; WX 570 ; N dollar ; G 6
+U 43 ; WX 272 ; N plus ; G 7
+U 44 ; WX 171 ; N comma ; G 8
+U 45 ; WX 272 ; N hyphen ; G 9
+U 46 ; WX 170 ; N period ; G 10
+U 48 ; WX 710 ; N zero ; G 11
+U 49 ; WX 470 ; N one ; G 12
+U 50 ; WX 630 ; N two ; G 13
+U 51 ; WX 590 ; N three ; G 14
+U 52 ; WX 645 ; N four ; G 15
+U 53 ; WX 415 ; N five ; G 16
+U 54 ; WX 600 ; N six ; G 17
+U 55 ; WX 635 ; N seven ; G 18
+U 56 ; WX 760 ; N eight ; G 19
+U 57 ; WX 700 ; N nine ; G 20
+U 58 ; WX 275 ; N colon ; G 21
+U 63 ; WX 565 ; N question ; G 22
+U 65 ; WX 725 ; N A ; G 23
+U 66 ; WX 700 ; N B ; G 24
+U 67 ; WX 885 ; N C ; G 25
+U 68 ; WX 870 ; N D ; G 26
+U 69 ; WX 550 ; N E ; G 27
+U 70 ; WX 645 ; N F ; G 28
+U 71 ; WX 870 ; N G ; G 29
+U 72 ; WX 1080 ; N H ; G 30
+U 73 ; WX 360 ; N I ; G 31
+U 74 ; WX 505 ; N J ; G 32
+U 75 ; WX 722 ; N K ; G 33
+U 76 ; WX 460 ; N L ; G 34
+U 77 ; WX 930 ; N M ; G 35
+U 78 ; WX 900 ; N N ; G 36
+U 79 ; WX 672 ; N O ; G 37
+U 80 ; WX 695 ; N P ; G 38
+U 81 ; WX 1000 ; N Q ; G 39
+U 82 ; WX 565 ; N R ; G 40
+U 83 ; WX 905 ; N S ; G 41
+U 84 ; WX 690 ; N T ; G 42
+U 85 ; WX 975 ; N U ; G 43
+U 86 ; WX 905 ; N V ; G 44
+U 87 ; WX 1020 ; N W ; G 45
+U 88 ; WX 940 ; N X ; G 46
+U 89 ; WX 860 ; N Y ; G 47
+U 90 ; WX 665 ; N Z ; G 48
+U 97 ; WX 730 ; N a ; G 49
+U 98 ; WX 935 ; N b ; G 50
+U 99 ; WX 470 ; N c ; G 51
+U 100 ; WX 525 ; N d ; G 52
+U 101 ; WX 770 ; N e ; G 53
+U 102 ; WX 550 ; N f ; G 54
+U 103 ; WX 615 ; N g ; G 55
+U 104 ; WX 670 ; N h ; G 56
+U 105 ; WX 320 ; N i ; G 57
+U 106 ; WX 425 ; N j ; G 58
+U 107 ; WX 605 ; N k ; G 59
+U 108 ; WX 485 ; N l ; G 60
+U 109 ; WX 774 ; N m ; G 61
+U 110 ; WX 550 ; N n ; G 62
+U 111 ; WX 550 ; N o ; G 63
+U 112 ; WX 795 ; N p ; G 64
+U 113 ; WX 725 ; N q ; G 65
+U 114 ; WX 405 ; N r ; G 66
+U 115 ; WX 460 ; N s ; G 67
+U 116 ; WX 440 ; N t ; G 68
+U 117 ; WX 715 ; N u ; G 69
+U 118 ; WX 670 ; N v ; G 70
+U 119 ; WX 850 ; N w ; G 71
+U 120 ; WX 680 ; N x ; G 72
+U 121 ; WX 595 ; N y ; G 73
+U 122 ; WX 510 ; N z ; G 74
+EndCharMetrics
+EndFontMetrics

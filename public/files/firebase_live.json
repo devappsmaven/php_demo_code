@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vividcustoms-mobileapp",
+  "private_key_id": "b375351aebd65a2f34d202bac18b32d26ec941e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIoBkW7mJsgmBx\nOF9CxiYYugBK8IWl6bsKgxUXAlmi3bkQ9k5wlGSEK6mkq72AmbgG7E9jFKoTobNM\nE4iqWYNeemGWAY164mTJtHEdNp4CQe2cn3O8Uq4T1x//Wq9lnjuOHlvPqiwa9Ws2\nwrOReBv7GhMQlGr+d99QnOgZAqA3B+7mYvMK4YssXkjaanwiyBPuTevzh4V4KY5L\ng/W2Obecl5XiPDkn/0UvXcVxmzSd9mkU4VPeWAb49y4gOcmxmJyZXnMkFD7LRHh+\nPQiSW49cbsQ07bWGG3cdbkk9YCkHQVi3UvBLrHwDLphoNmUYgyYnL1Zai47Mph7n\npucWqWD3AgMBAAECggEAXdlOg0SWNA41ESF+plzMu2pe8q9axYb1oPA6sF3AEojH\npqChhtZTwuQt4kMYTY0a4dovNLkY6kANAHxuxMlEw7BZ7/Lf/OjkntpSw4imF4ZB\noa+RUzoWBl/uruP8Anwnfc7Dwfvnz+CX+7DOkTDvXeIPowTanBj1FN+hTvnEepjd\n9ESZyUm89l23JClSbuz3v5YzQSXJumZ++gTt8jEiyA5H6EwXRRaSUYU6nU3I2Gvu\nPF66RRQIekqVY+Btc23gQfddc6SkxGxDqapXnVt75s26RkKVcpw673xM6Vux5ZZF\n0egOG78OkU/CCwDF1hm//SMrHOjMXbBL/RZHkUX2IQKBgQDx7ysLwTt/7q44SsSI\nsvplKTcgJnj6EgiZE/XEAfzYPpavn48WLK1Y6ToETTe7mgLNtqBAyN+JtEDK4ylr\nkbHINVZMYi+vkh07wInlTRbe2dM6lEZBA/7SsxrngjoHVycJNIhMVrnPFXAp0PS9\nP1bMKTcY154vRdF58RhDEOjmsQKBgQDUShvWTcT0iQL2u/OwUE1bBt/X0qBPqH8O\nWPutY9jkiNdBivdb8E6c3mOVkKP8s1AmSK1KiFQku/CVq+SKrxFLWko95X1xz/h7\neoUw833QFLOx4HpU6JMfUdtdm9irrUdmUIO2J3VfzyMAgBooye/m3YB1jx6hVSPP\nNpYVd5j8JwKBgQChABV4XB5Zc5/zDCagBeNGQNhTh+bIHAomvLa3us7lpTkoJJnX\nGuI9IfAe/rgRG1u0RE1+7257OD5KBkQBNtLFtmD4sfqj7yuPIQFjXBrVMMY13Iio\nKZ2B3/kOiYZObjwnDxOJIcnDOrQKz+ierDD56o+k85BsSx0s9jm8H9ut8QKBgE/c\nKSivTN5pBHJpNj0nmFIb/e0k0SXmTxXIp7UMkLU4PTHs4yz0873Tc0b6iJYxpn8g\nbABT1MOU5+aGKY16WlkseC1cvZopEGLzLlPB5Zx3jTnnJl32uBHaK1nFnPbIUsnM\nlB/cLC2EsLgpeK3LebIxtXeEBZPPgY8cC827lhOVAoGAFym4AXQ/krABx7ceLjqJ\n5aNHfPB77/x3rqlFm6NXDZJq6/FKUv6ElpM5vj4VXWPI90aKgCUN0hFaemEYYGE0\nL6zYEFxdpVlZM3kR/BY6HruTbGBmHuAEZjIAp4wgwGqhSiVUgJBZ4Emd+ew++7ev\nDlgDOR6PIFQHDM92/Er/5gk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-h59zf@vividcustoms-mobileapp.iam.gserviceaccount.com",
+  "client_id": "108156489754758035619",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-h59zf%40vividcustoms-mobileapp.iam.gserviceaccount.com"
+}

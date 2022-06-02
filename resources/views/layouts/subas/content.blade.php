@@ -1,0 +1,9 @@
+<div class="about-section mb-80">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+               {!!$page->content!!}
+            </div>
+        </div>                    
+    </div>
+</div>

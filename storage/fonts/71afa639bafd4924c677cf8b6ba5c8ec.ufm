@@ -1,0 +1,206 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright (c) 2002, 2006 Nick Curtis. All Rights Reserved. Distributed under the 1001Fonts Free For Commercial Use License (FFC) http://www.1001fonts.com/licenses/ffc.html - PayPal donations in any amount may be made at nicksfonts.com.
+FontName Emporium NF
+FontSubfamily Regular
+UniqueID Nick'sFonts: Emporium NF: 2006
+FullName EmporiumNF
+Version Version 1.002
+PostScriptName EmporiumNF
+Manufacturer Nick's Fonts
+Designer Nick Curtis
+FontVendorURL http://www.nicksfonts.com
+FontDesignerURL mailto:himself@nicksfonts.com
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 20
+UnderlinePosition -123
+FontHeightOffset 0
+Ascender 1000
+Descender 0
+FontBBox -11 0 2142 1000
+StartCharMetrics 182
+U 32 ; WX 500 ; N space ; G 3
+U 33 ; WX 980 ; N exclam ; G 4
+U 34 ; WX 980 ; N quotedbl ; G 5
+U 35 ; WX 980 ; N numbersign ; G 6
+U 36 ; WX 980 ; N dollar ; G 7
+U 37 ; WX 980 ; N percent ; G 8
+U 38 ; WX 980 ; N ampersand ; G 9
+U 39 ; WX 980 ; N quotesingle ; G 10
+U 40 ; WX 1000 ; N parenleft ; G 11
+U 41 ; WX 1000 ; N parenright ; G 12
+U 42 ; WX 980 ; N asterisk ; G 13
+U 44 ; WX 980 ; N comma ; G 14
+U 45 ; WX 980 ; N hyphen ; G 15
+U 46 ; WX 980 ; N period ; G 16
+U 48 ; WX 980 ; N zero ; G 17
+U 49 ; WX 980 ; N one ; G 18
+U 50 ; WX 980 ; N two ; G 19
+U 51 ; WX 980 ; N three ; G 20
+U 52 ; WX 980 ; N four ; G 21
+U 53 ; WX 980 ; N five ; G 22
+U 54 ; WX 980 ; N six ; G 23
+U 55 ; WX 980 ; N seven ; G 24
+U 56 ; WX 980 ; N eight ; G 25
+U 57 ; WX 980 ; N nine ; G 26
+U 58 ; WX 980 ; N colon ; G 27
+U 59 ; WX 980 ; N semicolon ; G 28
+U 60 ; WX 1000 ; N less ; G 29
+U 62 ; WX 1000 ; N greater ; G 30
+U 63 ; WX 980 ; N question ; G 31
+U 64 ; WX 980 ; N at ; G 32
+U 65 ; WX 980 ; N A ; G 33
+U 66 ; WX 980 ; N B ; G 34
+U 67 ; WX 980 ; N C ; G 35
+U 68 ; WX 980 ; N D ; G 36
+U 69 ; WX 980 ; N E ; G 37
+U 70 ; WX 980 ; N F ; G 38
+U 71 ; WX 980 ; N G ; G 39
+U 72 ; WX 980 ; N H ; G 40
+U 73 ; WX 980 ; N I ; G 41
+U 74 ; WX 980 ; N J ; G 42
+U 75 ; WX 980 ; N K ; G 43
+U 76 ; WX 980 ; N L ; G 44
+U 77 ; WX 980 ; N M ; G 45
+U 78 ; WX 980 ; N N ; G 46
+U 79 ; WX 980 ; N O ; G 47
+U 80 ; WX 980 ; N P ; G 48
+U 81 ; WX 980 ; N Q ; G 49
+U 82 ; WX 980 ; N R ; G 50
+U 83 ; WX 980 ; N S ; G 51
+U 84 ; WX 980 ; N T ; G 52
+U 85 ; WX 980 ; N U ; G 53
+U 86 ; WX 980 ; N V ; G 54
+U 87 ; WX 980 ; N W ; G 55
+U 88 ; WX 980 ; N X ; G 56
+U 89 ; WX 980 ; N Y ; G 57
+U 90 ; WX 980 ; N Z ; G 58
+U 91 ; WX 1000 ; N bracketleft ; G 59
+U 93 ; WX 1000 ; N bracketright ; G 60
+U 95 ; WX 980 ; N underscore ; G 61
+U 96 ; WX 980 ; N grave ; G 62
+U 97 ; WX 980 ; N a ; G 63
+U 98 ; WX 980 ; N b ; G 64
+U 99 ; WX 980 ; N c ; G 65
+U 100 ; WX 980 ; N d ; G 66
+U 101 ; WX 980 ; N e ; G 67
+U 102 ; WX 980 ; N f ; G 68
+U 103 ; WX 980 ; N g ; G 69
+U 104 ; WX 980 ; N h ; G 70
+U 105 ; WX 980 ; N i ; G 71
+U 106 ; WX 980 ; N j ; G 72
+U 107 ; WX 980 ; N k ; G 73
+U 108 ; WX 980 ; N l ; G 74
+U 109 ; WX 980 ; N m ; G 75
+U 110 ; WX 980 ; N n ; G 76
+U 111 ; WX 980 ; N o ; G 77
+U 112 ; WX 980 ; N p ; G 78
+U 113 ; WX 980 ; N q ; G 79
+U 114 ; WX 980 ; N r ; G 80
+U 115 ; WX 980 ; N s ; G 81
+U 116 ; WX 980 ; N t ; G 82
+U 117 ; WX 980 ; N u ; G 83
+U 118 ; WX 980 ; N v ; G 84
+U 119 ; WX 980 ; N w ; G 85
+U 120 ; WX 980 ; N x ; G 86
+U 121 ; WX 980 ; N y ; G 87
+U 122 ; WX 980 ; N z ; G 88
+U 160 ; WX 500 ; N nbspace ; G 89
+U 161 ; WX 980 ; N exclamdown ; G 90
+U 162 ; WX 980 ; N cent ; G 91
+U 163 ; WX 980 ; N sterling ; G 92
+U 164 ; WX 980 ; N currency ; G 93
+U 165 ; WX 980 ; N yen ; G 94
+U 167 ; WX 2170 ; N section ; G 95
+U 168 ; WX 980 ; N dieresis ; G 96
+U 169 ; WX 980 ; N copyright ; G 97
+U 170 ; WX 980 ; N ordfeminine ; G 98
+U 174 ; WX 980 ; N registered ; G 99
+U 180 ; WX 980 ; N acute ; G 100
+U 186 ; WX 980 ; N ordmasculine ; G 101
+U 191 ; WX 980 ; N questiondown ; G 102
+U 192 ; WX 980 ; N Agrave ; G 103
+U 193 ; WX 980 ; N Aacute ; G 104
+U 194 ; WX 980 ; N Acircumflex ; G 105
+U 195 ; WX 980 ; N Atilde ; G 106
+U 196 ; WX 980 ; N Adieresis ; G 107
+U 197 ; WX 980 ; N Aring ; G 108
+U 198 ; WX 980 ; N AE ; G 109
+U 199 ; WX 980 ; N Ccedilla ; G 110
+U 200 ; WX 980 ; N Egrave ; G 111
+U 201 ; WX 980 ; N Eacute ; G 112
+U 202 ; WX 980 ; N Ecircumflex ; G 113
+U 203 ; WX 980 ; N Edieresis ; G 114
+U 204 ; WX 980 ; N Igrave ; G 115
+U 205 ; WX 980 ; N Iacute ; G 116
+U 206 ; WX 980 ; N Icircumflex ; G 117
+U 207 ; WX 980 ; N Idieresis ; G 118
+U 208 ; WX 980 ; N Eth ; G 119
+U 209 ; WX 980 ; N Ntilde ; G 120
+U 210 ; WX 980 ; N Ograve ; G 121
+U 211 ; WX 980 ; N Oacute ; G 122
+U 212 ; WX 980 ; N Ocircumflex ; G 123
+U 213 ; WX 980 ; N Otilde ; G 124
+U 214 ; WX 980 ; N Odieresis ; G 125
+U 216 ; WX 980 ; N Oslash ; G 126
+U 217 ; WX 980 ; N Ugrave ; G 127
+U 218 ; WX 980 ; N Uacute ; G 128
+U 219 ; WX 980 ; N Ucircumflex ; G 129
+U 220 ; WX 980 ; N Udieresis ; G 130
+U 221 ; WX 980 ; N Yacute ; G 131
+U 222 ; WX 980 ; N Thorn ; G 132
+U 224 ; WX 980 ; N agrave ; G 133
+U 225 ; WX 980 ; N aacute ; G 134
+U 226 ; WX 980 ; N acircumflex ; G 135
+U 227 ; WX 980 ; N atilde ; G 136
+U 228 ; WX 980 ; N adieresis ; G 137
+U 229 ; WX 980 ; N aring ; G 138
+U 230 ; WX 980 ; N ae ; G 139
+U 231 ; WX 980 ; N ccedilla ; G 140
+U 232 ; WX 980 ; N egrave ; G 141
+U 233 ; WX 980 ; N eacute ; G 142
+U 234 ; WX 980 ; N ecircumflex ; G 143
+U 235 ; WX 980 ; N edieresis ; G 144
+U 236 ; WX 980 ; N igrave ; G 145
+U 237 ; WX 980 ; N iacute ; G 146
+U 238 ; WX 980 ; N icircumflex ; G 147
+U 239 ; WX 980 ; N idieresis ; G 148
+U 240 ; WX 980 ; N eth ; G 149
+U 241 ; WX 980 ; N ntilde ; G 150
+U 242 ; WX 980 ; N ograve ; G 151
+U 243 ; WX 980 ; N oacute ; G 152
+U 244 ; WX 980 ; N ocircumflex ; G 153
+U 245 ; WX 980 ; N otilde ; G 154
+U 246 ; WX 980 ; N odieresis ; G 155
+U 248 ; WX 980 ; N oslash ; G 156
+U 249 ; WX 980 ; N ugrave ; G 157
+U 250 ; WX 980 ; N uacute ; G 158
+U 251 ; WX 980 ; N ucircumflex ; G 159
+U 252 ; WX 980 ; N udieresis ; G 160
+U 253 ; WX 980 ; N yacute ; G 161
+U 254 ; WX 980 ; N thorn ; G 162
+U 255 ; WX 980 ; N ydieresis ; G 163
+U 338 ; WX 980 ; N OE ; G 164
+U 339 ; WX 980 ; N oe ; G 165
+U 352 ; WX 980 ; N Scaron ; G 166
+U 353 ; WX 980 ; N scaron ; G 167
+U 376 ; WX 980 ; N Ydieresis ; G 168
+U 381 ; WX 980 ; N Zcaron ; G 169
+U 382 ; WX 980 ; N zcaron ; G 170
+U 402 ; WX 1030 ; N florin ; G 171
+U 710 ; WX 980 ; N circumflex ; G 172
+U 711 ; WX 980 ; N caron ; G 173
+U 732 ; WX 980 ; N tilde ; G 174
+U 8211 ; WX 980 ; N endash ; G 175
+U 8212 ; WX 980 ; N emdash ; G 176
+U 8218 ; WX 980 ; N quotesinglbase ; G 177
+U 8222 ; WX 980 ; N quotedblbase ; G 178
+U 8226 ; WX 980 ; N bullet ; G 179
+U 8364 ; WX 980 ; N Euro ; G 180
+U 8482 ; WX 980 ; N trademark ; G 181
+EndCharMetrics
+EndFontMetrics

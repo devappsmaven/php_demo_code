@@ -1,0 +1,198 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Public Domain OFL by SavanasDesign.com
+FontName To The Point
+FontSubfamily Regular
+UniqueID SavanaPrice: 2017
+FullName To The Point Regular
+Version Version 1.000
+PostScriptName ToThePoint
+Manufacturer Savana Price
+Designer Savana Price
+FontDesignerURL www.savanasdesign.com
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -75
+FontHeightOffset 0
+Ascender 750
+Descender -250
+FontBBox -83 -312 546 531
+StartCharMetrics 116
+U 0 ; WX 0 ; N NULL ; G 1
+U 13 ; WX 168 ; N CR ; G 2
+U 32 ; WX 168 ; N space ; G 3
+U 33 ; WX 78 ; N exclam ; G 64
+U 34 ; WX 221 ; N quotedbl ; G 104
+U 35 ; WX 537 ; N numbersign ; G 95
+U 36 ; WX 256 ; N dollar ; G 78
+U 37 ; WX 365 ; N percent ; G 91
+U 38 ; WX 178 ; N ampersand ; G 96
+U 39 ; WX 110 ; N quotesingle ; G 103
+U 40 ; WX 152 ; N parenleft ; G 76
+U 41 ; WX 159 ; N parenright ; G 77
+U 42 ; WX 206 ; N asterisk ; G 101
+U 43 ; WX 225 ; N plus ; G 83
+U 44 ; WX 106 ; N comma ; G 68
+U 45 ; WX 197 ; N hyphen ; G 73
+U 46 ; WX 102 ; N period ; G 65
+U 47 ; WX 315 ; N slash ; G 88
+U 48 ; WX 347 ; N zero ; G 62
+U 49 ; WX 108 ; N one ; G 53
+U 50 ; WX 374 ; N two ; G 54
+U 51 ; WX 309 ; N three ; G 55
+U 52 ; WX 368 ; N four ; G 56
+U 53 ; WX 362 ; N five ; G 57
+U 54 ; WX 360 ; N six ; G 58
+U 55 ; WX 343 ; N seven ; G 59
+U 56 ; WX 243 ; N eight ; G 60
+U 57 ; WX 273 ; N nine ; G 61
+U 58 ; WX 91 ; N colon ; G 66
+U 59 ; WX 104 ; N semicolon ; G 67
+U 60 ; WX 286 ; N less ; G 80
+U 61 ; WX 206 ; N equal ; G 82
+U 62 ; WX 251 ; N greater ; G 81
+U 63 ; WX 212 ; N question ; G 63
+U 64 ; WX 405 ; N at ; G 94
+U 65 ; WX 257 ; N A ; G 105
+U 66 ; WX 292 ; N B ; G 27
+U 67 ; WX 331 ; N C ; G 28
+U 68 ; WX 278 ; N D ; G 29
+U 69 ; WX 286 ; N E ; G 30
+U 70 ; WX 295 ; N F ; G 31
+U 71 ; WX 368 ; N G ; G 32
+U 72 ; WX 276 ; N H ; G 33
+U 73 ; WX 360 ; N I ; G 34
+U 74 ; WX 343 ; N J ; G 35
+U 75 ; WX 300 ; N K ; G 36
+U 76 ; WX 324 ; N L ; G 37
+U 77 ; WX 517 ; N M ; G 38
+U 78 ; WX 292 ; N N ; G 39
+U 79 ; WX 309 ; N O ; G 40
+U 80 ; WX 264 ; N P ; G 41
+U 81 ; WX 370 ; N Q ; G 42
+U 82 ; WX 331 ; N R ; G 43
+U 83 ; WX 269 ; N S ; G 44
+U 84 ; WX 357 ; N T ; G 45
+U 85 ; WX 366 ; N U ; G 46
+U 86 ; WX 322 ; N V ; G 47
+U 87 ; WX 559 ; N W ; G 48
+U 88 ; WX 294 ; N X ; G 49
+U 89 ; WX 226 ; N Y ; G 50
+U 90 ; WX 303 ; N Z ; G 51
+U 91 ; WX 264 ; N bracketleft ; G 97
+U 92 ; WX 307 ; N backslash ; G 90
+U 93 ; WX 260 ; N bracketright ; G 98
+U 94 ; WX 241 ; N asciicircum ; G 112
+U 95 ; WX 316 ; N underscore ; G 102
+U 97 ; WX 193 ; N a ; G 106
+U 98 ; WX 236 ; N b ; G 107
+U 99 ; WX 260 ; N c ; G 52
+U 100 ; WX 241 ; N d ; G 4
+U 101 ; WX 251 ; N e ; G 5
+U 102 ; WX 254 ; N f ; G 6
+U 103 ; WX 257 ; N g ; G 7
+U 104 ; WX 285 ; N h ; G 8
+U 105 ; WX 84 ; N i ; G 9
+U 106 ; WX 118 ; N j ; G 10
+U 107 ; WX 236 ; N k ; G 11
+U 108 ; WX 84 ; N l ; G 12
+U 109 ; WX 412 ; N m ; G 13
+U 110 ; WX 316 ; N n ; G 14
+U 111 ; WX 229 ; N o ; G 15
+U 112 ; WX 264 ; N p ; G 16
+U 113 ; WX 236 ; N q ; G 17
+U 114 ; WX 255 ; N r ; G 18
+U 115 ; WX 225 ; N s ; G 19
+U 116 ; WX 270 ; N t ; G 20
+U 117 ; WX 285 ; N u ; G 21
+U 118 ; WX 268 ; N v ; G 22
+U 119 ; WX 388 ; N w ; G 23
+U 120 ; WX 229 ; N x ; G 24
+U 121 ; WX 305 ; N y ; G 25
+U 122 ; WX 301 ; N z ; G 26
+U 123 ; WX 218 ; N braceleft ; G 92
+U 124 ; WX 71 ; N bar ; G 89
+U 125 ; WX 221 ; N braceright ; G 93
+U 126 ; WX 318 ; N asciitilde ; G 100
+U 162 ; WX 227 ; N cent ; G 79
+U 169 ; WX 293 ; N copyright ; G 108
+U 171 ; WX 416 ; N guillemotleft ; G 115
+U 174 ; WX 301 ; N registered ; G 109
+U 176 ; WX 127 ; N degree ; G 110
+U 187 ; WX 416 ; N guillemotright ; G 114
+U 215 ; WX 206 ; N multiply ; G 86
+U 247 ; WX 222 ; N divide ; G 85
+U 8211 ; WX 292 ; N endash ; G 74
+U 8212 ; WX 343 ; N emdash ; G 75
+U 8216 ; WX 118 ; N quoteleft ; G 69
+U 8217 ; WX 107 ; N quoteright ; G 70
+U 8220 ; WX 204 ; N quotedblleft ; G 71
+U 8221 ; WX 208 ; N quotedblright ; G 72
+U 8226 ; WX 135 ; N bullet ; G 99
+U 8230 ; WX 275 ; N ellipsis ; G 113
+U 8260 ; WX 308 ; N fraction ; G 87
+U 8482 ; WX 241 ; N trademark ; G 111
+U 8722 ; WX 230 ; N minus ; G 84
+EndCharMetrics
+StartKernData 
+StartKernPairs 159
+
+KPX space slash -55
+
+KPX exclam j 14
+
+
+KPX numbersign CR -56
+KPX numbersign space -69
+KPX numbersign ampersand -70
+KPX numbersign parenleft -56
+KPX numbersign asterisk -56
+KPX numbersign four -69
+KPX numbersign i -83
+KPX numbersign j -83
+
+KPX dollar parenleft -28
+KPX dollar slash -70
+
+KPX percent parenleft -41
+KPX percent asterisk -55
+KPX percent hyphen -56
+KPX percent slash -70
+
+KPX parenleft quotedbl -28
+
+KPX parenright i -56
+
+KPX plus parenleft -27
+KPX plus slash -42
+KPX plus zero -42
+
+KPX comma four 14
+KPX comma j 28
+
+KPX hyphen CR -111
+KPX hyphen space -70
+KPX hyphen ampersand -83
+KPX hyphen parenleft -56
+KPX hyphen asterisk -69
+KPX hyphen comma -28
+KPX hyphen four -125
+KPX hyphen i -83
+KPX hyphen j -111
+
+KPX slash i -56
+KPX slash j -55
+
+
+
+KPX colon eight -55
+KPX colon semicolon -111
+
+KPX i slash -42
+EndKernPairs
+EndKernData
+EndFontMetrics
