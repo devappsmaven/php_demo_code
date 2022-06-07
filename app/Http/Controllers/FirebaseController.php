@@ -29,7 +29,7 @@ class FirebaseController extends Controller
             'user_2' => 2
         );
 
-        $firebase_relation = $this->db->getReference('Vivid Custom/chat_relations/')->push($array)->getKey();
+        $firebase_relation = $this->db->getReference('db_hierarchy_path')->push($array)->getKey();
 
         echo json_encode($firebase_relation);
     }
@@ -38,7 +38,7 @@ class FirebaseController extends Controller
     public function index2()
     {
         try{
-            $service = ServiceAccount::fromJsonFile(env('FB_FILE'));
+            $service = ServiceAccount::fromJsonFile('json_file_path'));
             $firebase = (new Factory)->withServiceAccount($service);
 
             $auth = $firebase->createAuth();
